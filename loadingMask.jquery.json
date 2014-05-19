@@ -1,0 +1,32 @@
+{
+  "name": "loadingMask",
+  "title": "jQuery Loading Mask",
+  "version": "0.0.1",
+  "description": "To quickly build a loading mask.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/XadillaX/jquery.loadingMask.git"
+  },
+  "keywords": [
+    "loading",
+    "mask"
+  ],
+  "author": {
+      "name": "XadillaX",
+      "url": "http://xcoder.in/",
+      "email": "admin@xcoder.in"
+  },
+  "dependencies": {
+    "jquery": ">=1.5"
+  },
+  "licenses": [
+    {
+      "type": "GPLv2",
+      "url": "http://www.example.com/licenses/gpl.html"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/XadillaX/jquery.loadingMask/issues"
+  },
+  "homepage": "https://github.com/XadillaX/jquery.loadingMask"
+}
