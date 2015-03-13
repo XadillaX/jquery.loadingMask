@@ -1,0 +1,25 @@
+{
+  "name": "jLoadingMask",
+  "main": "jquery.loadingMask.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/XadillaX/jquery.loadingMask",
+  "description": "To quickly build a loading mask.",
+  "keywords": [
+    "loading",
+    "mask"
+  ],
+  "authors": [
+    "XadillaX"
+  ],
+  "license": "GPLv2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.9.1"
+  }
+}
