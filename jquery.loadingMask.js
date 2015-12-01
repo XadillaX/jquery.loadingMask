@@ -54,7 +54,7 @@
         //console.log(object.html());
 
         // 若之前没生成则生成
-        if(object.attr("__mask-id") === "" || object.attr("__mask-id") === undefined) {
+        if(!object.attr("__mask-id")) {
             object.css("display", "none");
             var maskId = newGuid();
             var html = "<table class=\"__jquery-loading-mask\" id='__j_loading_mask-" + maskId + "'><tbody><tr><td>" + object.html() + "</td></tr></tbody></table>";
