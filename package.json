@@ -1,0 +1,19 @@
+{
+  "name": "jquery.loadingmask",
+  "version": "1.0.0",
+  "description": "loading mask for legacy jquery.",
+  "main": "jquery.loadingMask.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XadillaX/jquery.loadingMask.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XadillaX/jquery.loadingMask/issues"
+  },
+  "homepage": "https://github.com/XadillaX/jquery.loadingMask#readme"
+}
